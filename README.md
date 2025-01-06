@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Artificial Intelligence & Data Scienc in Mumbai University.
+- 🎓 &nbsp; Studying Artificial Intelligence & Data Science in Mumbai University.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 
@@ -44,9 +44,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/thorat-shivam-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Thorat%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="shivamthorat40@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivamthorat40@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/thorat-shivam-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Thorat%20-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:shivamthorat40@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivamthorat40@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
 
 
 
