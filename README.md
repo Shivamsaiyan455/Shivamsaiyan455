@@ -4,7 +4,6 @@
 
 <!-- Banner Image -->
 
-
 <!-- GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="100%" />
@@ -12,9 +11,14 @@
 
 <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.  
-- 🎓 &nbsp; Studying Artificial Intelligence & Data Science at Mumbai University.  
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.
+- 💡 &nbsp; I'm a passionate developer always eager to learn, build, and solve real-world problems with technology.  
+- 🎓 &nbsp; Currently pursuing a Bachelor's degree in **Artificial Intelligence & Data Science** at **Mumbai University**.  
+- 💻 &nbsp; I enjoy working on Java-based backend systems, web development, and full-stack projects.  
+- 🌐 &nbsp; I’m diving deeper into **Cloud Computing**, **System Design**, and **Machine Learning**.  
+- 🔨 &nbsp; Building mini projects to enhance my skills in Java, MySQL, and modern frameworks like Spring Boot and Hibernate.  
+- 📚 &nbsp; I believe in lifelong learning — constantly exploring new tools, best practices, and tech trends.  
+- 🚀 &nbsp; My goal is to become a skilled **software engineer**, contribute to impactful projects, and grow in the tech industry.  
+- 💬 &nbsp; Always open to collaborate on interesting projects, internships, or just geek out about tech!
 
 ---
 
@@ -24,10 +28,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## ⚙️ Frameworks:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%234596B7.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ## 🔙 Backend:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -76,6 +82,16 @@
 
 [![](https://visitcount.itsvg.in/api?id=Shivamsaiyan455&icon=0&color=4)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thorat-shivam-dev)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamthorat40@gmail.com)
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/thorat-shivam-dev" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shivamthorat40@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  
+</p>
