@@ -11,16 +11,12 @@
 
 <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💡 &nbsp; I'm a passionate developer always eager to learn, build, and solve real-world problems with technology.  
-- 🎓 &nbsp; Currently pursuing a Bachelor's degree in **Artificial Intelligence & Data Science** at **Mumbai University**.  
-- 💻 &nbsp; I enjoy working on Java-based backend systems, web development, and full-stack projects.  
-- 🌐 &nbsp; I’m diving deeper into **Cloud Computing**, **System Design**, and **Machine Learning**.  
-- 🔨 &nbsp; Building mini projects to enhance my skills in Java, MySQL, and modern frameworks like Spring Boot and Hibernate.  
-- 📚 &nbsp; I believe in lifelong learning — constantly exploring new tools, best practices, and tech trends.  
-- 🚀 &nbsp; My goal is to become a skilled **software engineer**, contribute to impactful projects, and grow in the tech industry.  
-- 💬 &nbsp; Always open to collaborate on interesting projects, internships, or just geek out about tech!
+- 🎓 &nbsp; Pursuing **Artificial Intelligence & Data Science** at **Mumbai University**.  
+- 💻 &nbsp; Passionate about backend development, especially with **Java**, **Spring Boot**, and **MySQL**.  
+- 🌱 &nbsp; Exploring **Cloud Computing**, **Machine Learning**, and **System Design**.  
+- 🚀 &nbsp; Aiming to become a skilled **software engineer** and contribute to impactful projects.
 
----
+
 
 # 💻 Tech Stack
 
